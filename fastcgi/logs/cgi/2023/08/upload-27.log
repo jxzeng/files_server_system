@@ -1,0 +1,4 @@
+[2023-08-27 19:07:36]--[upload_cgi.cpp:598]--zengjx成功上传[2203.10006.pdf, 大小：1759936, md5码：88cdfbda20bcd7936bbbeb249fd8307c]到本地
+[2023-08-27 19:07:37]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTrLnmAGS_iABrawGGBpOo783.pdf] succ!
+[2023-08-27 19:07:37]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTrLnmAGS_iABrawGGBpOo783.pdf
+[2023-08-27 19:07:37]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('88cdfbda20bcd7936bbbeb249fd8307c', 'group2/M00/00/00/sBCpZmTrLnmAGS_iABrawGGBpOo783.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTrLnmAGS_iABrawGGBpOo783.pdf', '1759936', 'pdf','2203.10006.pdf', 1) 文件信息插入成功

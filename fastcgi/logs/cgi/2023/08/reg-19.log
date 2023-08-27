@@ -1,0 +1,15 @@
+[2023-08-19 00:02:36]--[reg_cgi.cpp:202]--buf = {
+    "confirmpw": "cd4c72acf27ab07e47a845b62bac8951",
+    "email": "zengjianxin",
+    "firstPwd": "cd4c72acf27ab07e47a845b62bac8951",
+    "nickName": "zengjianxin",
+    "phone": "zengjianxin",
+    "userName": "zengjianxin"
+}
+
+[2023-08-19 00:02:36]--[reg_cgi.cpp:213]--user = zengjianxin, nick_name = zengjianxin, pwd = cd4c72acf27ab07e47a845b62bac8951, tel = zengjianxin, email = zengjianxin
+[2023-08-19 00:02:36]--[reg_cgi.cpp:123]--mysql_user = root, mysql_pwd = #ZJx123456, mysql_db = filesystem
+[2023-08-19 00:02:36]--[reg_cgi.cpp:93]--002
+[2023-08-19 00:02:36]--[reg_cgi.cpp:235]--{
+	"code":	"002"
+} error

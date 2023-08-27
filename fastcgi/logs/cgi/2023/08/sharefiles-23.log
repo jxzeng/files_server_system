@@ -1,0 +1,131 @@
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:648]--cmd = pvdesc
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:408]--sql_num = 1, redis_num = 2
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:421]--select md5, filename, pv from share_file_list order by pv desc 在操作
+[2023-08-23 17:50:35]--[sharefiles_cgi.cpp:584]--{
+	"files":	[{
+			"filename":	"1.jpg",
+			"pv":	0
+		}]
+}
+[2023-08-23 17:50:44]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 17:50:44]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-23 17:50:44]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-23 17:50:44]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-23 17:50:44]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-23 17:50:44]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-23 17:50:44]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"8de9f1753827148d4ecc8c6a0d56943a",
+			"time":	"2023-08-22 21:26:09",
+			"filename":	"1.jpg",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg",
+			"size":	4008,
+			"type":	"jpg"
+		}]
+}
+[2023-08-23 19:36:14]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 19:36:14]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-23 19:36:14]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-23 19:36:14]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-23 19:36:14]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-23 19:36:14]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-23 19:36:14]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"8de9f1753827148d4ecc8c6a0d56943a",
+			"time":	"2023-08-22 21:26:09",
+			"filename":	"1.jpg",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg",
+			"size":	4008,
+			"type":	"jpg"
+		}]
+}
+[2023-08-23 20:52:36]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 20:52:36]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-23 20:52:36]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-23 20:52:36]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-23 20:52:36]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-23 20:52:36]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-23 20:52:36]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"8de9f1753827148d4ecc8c6a0d56943a",
+			"time":	"2023-08-22 21:26:09",
+			"filename":	"1.jpg",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg",
+			"size":	4008,
+			"type":	"jpg"
+		}]
+}
+[2023-08-23 21:39:58]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 21:39:58]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-23 21:39:58]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-23 21:39:58]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-23 21:39:58]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-23 21:39:58]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-23 21:39:58]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"8de9f1753827148d4ecc8c6a0d56943a",
+			"time":	"2023-08-22 21:26:09",
+			"filename":	"1.jpg",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg",
+			"size":	4008,
+			"type":	"jpg"
+		}]
+}
+[2023-08-23 21:39:59]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 21:39:59]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-23 21:39:59]--[sharefiles_cgi.cpp:648]--cmd = pvdesc
+[2023-08-23 21:39:59]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-23 21:39:59]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-23 21:39:59]--[sharefiles_cgi.cpp:408]--sql_num = 1, redis_num = 1
+[2023-08-23 21:39:59]--[sharefiles_cgi.cpp:584]--{
+	"files":	[{
+			"filename":	"1.jpg",
+			"pv":	0
+		}]
+}
+[2023-08-23 23:40:25]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 23:40:25]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-23 23:40:27]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 23:40:27]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-23 23:49:53]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-23 23:49:53]--[sharefiles_cgi.cpp:112]--line = -1

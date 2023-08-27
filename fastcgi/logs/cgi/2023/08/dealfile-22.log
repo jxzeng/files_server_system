@@ -1,0 +1,57 @@
+[2023-08-22 16:20:40]--[dealfile_cgi.cpp:842]--cmd = share
+[2023-08-22 16:20:40]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "新建文本文档.txt",
+    "md5": "c63204cc106231695480c8a3f847ea54",
+    "token": "8a7dc36137fcbed7a62d41ccce45eb31",
+    "user": "zengjianxin"
+}
+
+[2023-08-22 16:20:40]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = 8a7dc36137fcbed7a62d41ccce45eb31, md5 = c63204cc106231695480c8a3f847ea54, filename = 新建文本文档.txt
+[2023-08-22 16:32:02]--[dealfile_cgi.cpp:842]--cmd = share
+[2023-08-22 16:32:02]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "新建文本文档.txt",
+    "md5": "c63204cc106231695480c8a3f847ea54",
+    "token": "ea5097096f0ae3a689dba3a610b2cb62",
+    "user": "zengjianxin"
+}
+
+[2023-08-22 16:32:02]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = ea5097096f0ae3a689dba3a610b2cb62, md5 = c63204cc106231695480c8a3f847ea54, filename = 新建文本文档.txt
+[2023-08-22 16:32:02]--[dealfile_cgi.cpp:198]--别人已经分享此文件
+[2023-08-22 16:32:29]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-22 16:32:29]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "新建文本文档.txt",
+    "md5": "c63204cc106231695480c8a3f847ea54",
+    "token": "ea5097096f0ae3a689dba3a610b2cb62",
+    "user": "zengjianxin"
+}
+
+[2023-08-22 16:32:29]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = ea5097096f0ae3a689dba3a610b2cb62, md5 = c63204cc106231695480c8a3f847ea54, filename = 新建文本文档.txt
+[2023-08-22 16:32:29]--[dealfile_cgi.cpp:504]--select count from user_file_count where user = 'xxx_share_xxx_file_xxx_list_xxx_count_xxx' 操作失败
+[2023-08-22 16:33:11]--[dealfile_cgi.cpp:842]--cmd = share
+[2023-08-22 16:33:11]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "wewq.txt",
+    "md5": "f56e6b9b576844de046812d4714a00f2",
+    "token": "ea5097096f0ae3a689dba3a610b2cb62",
+    "user": "zengjianxin"
+}
+
+[2023-08-22 16:33:11]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = ea5097096f0ae3a689dba3a610b2cb62, md5 = f56e6b9b576844de046812d4714a00f2, filename = wewq.txt
+[2023-08-22 16:33:16]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-22 16:33:16]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "wewq.txt",
+    "md5": "f56e6b9b576844de046812d4714a00f2",
+    "token": "ea5097096f0ae3a689dba3a610b2cb62",
+    "user": "zengjianxin"
+}
+
+[2023-08-22 16:33:16]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = ea5097096f0ae3a689dba3a610b2cb62, md5 = f56e6b9b576844de046812d4714a00f2, filename = wewq.txt
+[2023-08-22 16:33:17]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-22 21:26:08]--[dealfile_cgi.cpp:842]--cmd = share
+[2023-08-22 21:26:08]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "1.jpg",
+    "md5": "8de9f1753827148d4ecc8c6a0d56943a",
+    "token": "289bddd007fa7b378a0debe448a00f75",
+    "user": "zengjianxin"
+}
+
+[2023-08-22 21:26:08]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = 289bddd007fa7b378a0debe448a00f75, md5 = 8de9f1753827148d4ecc8c6a0d56943a, filename = 1.jpg

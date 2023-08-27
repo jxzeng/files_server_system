@@ -1,0 +1,99 @@
+[2023-08-24 13:45:26]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai.bib",
+    "md5": "a23c4761c5a628ed58494daef865753a",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:26]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = a23c4761c5a628ed58494daef865753a, filename = ecai.bib
+[2023-08-24 13:45:26]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai.bst",
+    "md5": "505b6af5087900292c7c5ab62061b6c5",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:26]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 505b6af5087900292c7c5ab62061b6c5, filename = ecai.bst
+[2023-08-24 13:45:27]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai.cls",
+    "md5": "9bdb3b57eee6626351e3f26ddb884352",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:27]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 9bdb3b57eee6626351e3f26ddb884352, filename = ecai.cls
+[2023-08-24 13:45:27]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecaif01.pdf",
+    "md5": "e2a596ced25f95d984d7cc42b2b1f022",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:27]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = e2a596ced25f95d984d7cc42b2b1f022, filename = ecaif01.pdf
+[2023-08-24 13:45:59]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai-sample-and-instructions.tex",
+    "md5": "0c2471162e7a2f2bba3e1179cdcea3b2",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:59]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 0c2471162e7a2f2bba3e1179cdcea3b2, filename = ecai-sample-and-instructions.tex
+[2023-08-24 13:46:00]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai-sample-and-instructions.tex",
+    "md5": "0c2471162e7a2f2bba3e1179cdcea3b2",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:46:00]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 0c2471162e7a2f2bba3e1179cdcea3b2, filename = ecai-sample-and-instructions.tex
+[2023-08-24 13:46:01]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai-sample-and-instructions.tex",
+    "md5": "0c2471162e7a2f2bba3e1179cdcea3b2",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:46:01]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 0c2471162e7a2f2bba3e1179cdcea3b2, filename = ecai-sample-and-instructions.tex
+[2023-08-24 13:46:01]--[md5_cgi.cpp:191]--zengjianxin[filename:ecai-sample-and-instructions.tex, md5:0c2471162e7a2f2bba3e1179cdcea3b2]已存在
+[2023-08-24 13:46:01]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai-sample-and-instructions.tex",
+    "md5": "0c2471162e7a2f2bba3e1179cdcea3b2",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:46:01]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 0c2471162e7a2f2bba3e1179cdcea3b2, filename = ecai-sample-and-instructions.tex
+[2023-08-24 13:46:01]--[md5_cgi.cpp:191]--zengjianxin[filename:ecai-sample-and-instructions.tex, md5:0c2471162e7a2f2bba3e1179cdcea3b2]已存在
+[2023-08-24 13:46:01]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "ecai-sample-and-instructions.tex",
+    "md5": "0c2471162e7a2f2bba3e1179cdcea3b2",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:46:01]--[md5_cgi.cpp:368]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 0c2471162e7a2f2bba3e1179cdcea3b2, filename = ecai-sample-and-instructions.tex
+[2023-08-24 13:46:01]--[md5_cgi.cpp:191]--zengjianxin[filename:ecai-sample-and-instructions.tex, md5:0c2471162e7a2f2bba3e1179cdcea3b2]已存在
+[2023-08-24 17:46:07]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "cudnn-11.2-windows-x64-v8.1.1.33.zip",
+    "md5": "3d0840dd2572e49c5378c5009ad1eadf",
+    "token": "64945a6f0040db1c814889e34ec3e59c",
+    "user": "zengjx"
+}
+
+[2023-08-24 17:46:07]--[md5_cgi.cpp:368]--user = zengjx, token = 64945a6f0040db1c814889e34ec3e59c, md5 = 3d0840dd2572e49c5378c5009ad1eadf, filename = cudnn-11.2-windows-x64-v8.1.1.33.zip
+[2023-08-24 18:14:23]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "1.jpg",
+    "md5": "8de9f1753827148d4ecc8c6a0d56943a",
+    "token": "39f944553e65cc7733c64f3f744bc627",
+    "user": "zengjx"
+}
+
+[2023-08-24 18:14:23]--[md5_cgi.cpp:368]--user = zengjx, token = 39f944553e65cc7733c64f3f744bc627, md5 = 8de9f1753827148d4ecc8c6a0d56943a, filename = 1.jpg
+[2023-08-24 18:24:40]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "cudnn-11.2-windows-x64-v8.1.1.33.zip",
+    "md5": "3d0840dd2572e49c5378c5009ad1eadf",
+    "token": "39f944553e65cc7733c64f3f744bc627",
+    "user": "zengjx"
+}
+
+[2023-08-24 18:24:40]--[md5_cgi.cpp:368]--user = zengjx, token = 39f944553e65cc7733c64f3f744bc627, md5 = 3d0840dd2572e49c5378c5009ad1eadf, filename = cudnn-11.2-windows-x64-v8.1.1.33.zip

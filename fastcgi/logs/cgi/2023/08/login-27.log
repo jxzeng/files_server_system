@@ -1,0 +1,22 @@
+[2023-08-27 19:06:36]--[login_cgi.cpp:220]--buf = {
+    "pwd": "8a2dc3c6cb64e0b25858543b94411449",
+    "user": "zengjx"
+}
+
+[2023-08-27 19:06:36]--[login_cgi.cpp:225]--user = zengjx, pwd = 8a2dc3c6cb64e0b25858543b94411449
+[2023-08-27 19:06:36]--[login_cgi.cpp:51]--mysql_user = root, mysql_pwd = #ZJx123456, mysql_db = filesystem
+[2023-08-27 19:06:36]--[login_cgi.cpp:93]--redis:[ip=127.0.0.1,port=6379]
+[2023-08-27 19:06:36]--[login_cgi.cpp:114]--tmp = zengjx16876134408
+[2023-08-27 19:06:36]--[login_cgi.cpp:129]--base64 = +gC4qlmvYKeN25sY3IHSvFSLR+LwC1FL
+[2023-08-27 19:06:36]--[login_cgi.cpp:233]--token = cbd13be68f029ece30997b90a9f39441
+[2023-08-27 19:09:26]--[login_cgi.cpp:220]--buf = {
+    "pwd": "8a2dc3c6cb64e0b25858543b94411449",
+    "user": "zengjx"
+}
+
+[2023-08-27 19:09:26]--[login_cgi.cpp:225]--user = zengjx, pwd = 8a2dc3c6cb64e0b25858543b94411449
+[2023-08-27 19:09:26]--[login_cgi.cpp:51]--mysql_user = root, mysql_pwd = #ZJx123456, mysql_db = filesystem
+[2023-08-27 19:09:26]--[login_cgi.cpp:93]--redis:[ip=127.0.0.1,port=6379]
+[2023-08-27 19:09:26]--[login_cgi.cpp:114]--tmp = zengjx612379283194
+[2023-08-27 19:09:26]--[login_cgi.cpp:129]--base64 = IP5xW/0PmSSJe2lmFT7CE2lOQHIHTRgB
+[2023-08-27 19:09:26]--[login_cgi.cpp:233]--token = baafca7dab8fc4de07dbdefc8ea01d71

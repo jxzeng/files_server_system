@@ -1,0 +1,16 @@
+[2023-08-27 19:07:36]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "2203.10006.pdf",
+    "md5": "88cdfbda20bcd7936bbbeb249fd8307c",
+    "token": "cbd13be68f029ece30997b90a9f39441",
+    "user": "zengjx"
+}
+
+[2023-08-27 19:07:36]--[md5_cgi.cpp:368]--user = zengjx, token = cbd13be68f029ece30997b90a9f39441, md5 = 88cdfbda20bcd7936bbbeb249fd8307c, filename = 2203.10006.pdf
+[2023-08-27 19:09:35]--[md5_cgi.cpp:347]--buf = {
+    "fileName": "cudnn-11.2-windows-x64-v8.1.1.33.zip",
+    "md5": "3d0840dd2572e49c5378c5009ad1eadf",
+    "token": "baafca7dab8fc4de07dbdefc8ea01d71",
+    "user": "zengjx"
+}
+
+[2023-08-27 19:09:35]--[md5_cgi.cpp:368]--user = zengjx, token = baafca7dab8fc4de07dbdefc8ea01d71, md5 = 3d0840dd2572e49c5378c5009ad1eadf, filename = cudnn-11.2-windows-x64-v8.1.1.33.zip

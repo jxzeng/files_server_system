@@ -1,0 +1,148 @@
+[2023-08-23 18:24:18]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 18:24:18]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTl3lKAUzCEABiyPsTO_yM875.pdf] succ!
+[2023-08-23 18:24:18]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl3lKAUzCEABiyPsTO_yM875.pdf
+[2023-08-23 18:24:18]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTl3lKAUzCEABiyPsTO_yM875.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl3lKAUzCEABiyPsTO_yM875.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 18:28:23]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 18:28:24]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTl30iAMyMHABiyPsTO_yM277.pdf] succ!
+[2023-08-23 18:28:24]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl30iAMyMHABiyPsTO_yM277.pdf
+[2023-08-23 18:28:24]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTl30iAMyMHABiyPsTO_yM277.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl30iAMyMHABiyPsTO_yM277.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 19:47:38]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 19:47:38]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTl8dqACHirABiyPsTO_yM264.pdf] succ!
+[2023-08-23 19:47:38]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl8dqACHirABiyPsTO_yM264.pdf
+[2023-08-23 19:47:38]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTl8dqACHirABiyPsTO_yM264.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl8dqACHirABiyPsTO_yM264.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 19:54:27]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 19:54:27]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTl83OAcVJgABiyPsTO_yM417.pdf] succ!
+[2023-08-23 19:54:27]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl83OAcVJgABiyPsTO_yM417.pdf
+[2023-08-23 19:54:27]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTl83OAcVJgABiyPsTO_yM417.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl83OAcVJgABiyPsTO_yM417.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 20:02:19]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 20:02:20]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTl9UyACU_jABiyPsTO_yM377.pdf] succ!
+[2023-08-23 20:02:20]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl9UyACU_jABiyPsTO_yM377.pdf
+[2023-08-23 20:02:20]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTl9UyACU_jABiyPsTO_yM377.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl9UyACU_jABiyPsTO_yM377.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 20:07:11]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 20:07:11]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTl9m-ALKq6ABiyPsTO_yM517.pdf] succ!
+[2023-08-23 20:07:11]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl9m-ALKq6ABiyPsTO_yM517.pdf
+[2023-08-23 20:07:11]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTl9m-ALKq6ABiyPsTO_yM517.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl9m-ALKq6ABiyPsTO_yM517.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 20:43:45]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 20:43:45]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTl_wGAO0UDABiyPsTO_yM169.pdf] succ!
+[2023-08-23 20:43:45]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl_wGAO0UDABiyPsTO_yM169.pdf
+[2023-08-23 20:43:45]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTl_wGAO0UDABiyPsTO_yM169.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTl_wGAO0UDABiyPsTO_yM169.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:16:57]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:16:58]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmBsqAb3mDABiyPsTO_yM624.pdf] succ!
+[2023-08-23 21:16:58]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmBsqAb3mDABiyPsTO_yM624.pdf
+[2023-08-23 21:16:58]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmBsqAb3mDABiyPsTO_yM624.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmBsqAb3mDABiyPsTO_yM624.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:20:05]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:20:06]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmB4aAAOImABiyPsTO_yM540.pdf] succ!
+[2023-08-23 21:20:06]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmB4aAAOImABiyPsTO_yM540.pdf
+[2023-08-23 21:20:06]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmB4aAAOImABiyPsTO_yM540.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmB4aAAOImABiyPsTO_yM540.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:23:06]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:23:07]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmCDuAIGREABiyPsTO_yM762.pdf] succ!
+[2023-08-23 21:23:07]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCDuAIGREABiyPsTO_yM762.pdf
+[2023-08-23 21:23:07]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmCDuAIGREABiyPsTO_yM762.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCDuAIGREABiyPsTO_yM762.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:25:59]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:25:59]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmCOeAds7UABiyPsTO_yM476.pdf] succ!
+[2023-08-23 21:25:59]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCOeAds7UABiyPsTO_yM476.pdf
+[2023-08-23 21:25:59]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmCOeAds7UABiyPsTO_yM476.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCOeAds7UABiyPsTO_yM476.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:30:53]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:30:53]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmCg2AQVS9ABiyPsTO_yM316.pdf] succ!
+[2023-08-23 21:30:53]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCg2AQVS9ABiyPsTO_yM316.pdf
+[2023-08-23 21:30:53]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmCg2AQVS9ABiyPsTO_yM316.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCg2AQVS9ABiyPsTO_yM316.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:31:26]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:31:27]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmCi-AKyz9ABiyPsTO_yM068.pdf] succ!
+[2023-08-23 21:31:27]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCi-AKyz9ABiyPsTO_yM068.pdf
+[2023-08-23 21:31:27]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmCi-AKyz9ABiyPsTO_yM068.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmCi-AKyz9ABiyPsTO_yM068.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:52:58]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:52:59]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmDzuAdfjMABiyPsTO_yM233.pdf] succ!
+[2023-08-23 21:52:59]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmDzuAdfjMABiyPsTO_yM233.pdf
+[2023-08-23 21:52:59]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmDzuAdfjMABiyPsTO_yM233.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmDzuAdfjMABiyPsTO_yM233.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:54:14]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:54:15]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmD4aAO88NABiyPsTO_yM832.pdf] succ!
+[2023-08-23 21:54:15]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmD4aAO88NABiyPsTO_yM832.pdf
+[2023-08-23 21:54:15]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmD4aAO88NABiyPsTO_yM832.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmD4aAO88NABiyPsTO_yM832.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 21:55:16]--[upload_cgi.cpp:598]--zengjx成功上传[wewq.txt, 大小：9, md5码：f56e6b9b576844de046812d4714a00f2]到本地
+[2023-08-23 21:55:16]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmD8SAazN0AAAACQ0MCEU621.txt] succ!
+[2023-08-23 21:55:16]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmD8SAazN0AAAACQ0MCEU621.txt
+[2023-08-23 21:55:16]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('f56e6b9b576844de046812d4714a00f2', 'group2/M00/00/00/sBCpZmTmD8SAazN0AAAACQ0MCEU621.txt', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmD8SAazN0AAAACQ0MCEU621.txt', '9', 'txt','wewq.txt', 1) 文件信息插入成功
+[2023-08-23 21:55:16]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 21:55:16]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmD8SAO27oABiyPsTO_yM371.pdf] succ!
+[2023-08-23 21:55:16]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmD8SAO27oABiyPsTO_yM371.pdf
+[2023-08-23 21:55:16]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmD8SAO27oABiyPsTO_yM371.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmD8SAO27oABiyPsTO_yM371.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 22:11:06]--[upload_cgi.cpp:598]--zengjx成功上传[2203.10006.pdf, 大小：1759936, md5码：88cdfbda20bcd7936bbbeb249fd8307c]到本地
+[2023-08-23 22:11:06]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmE3qAVsO-ABrawGGBpOo608.pdf] succ!
+[2023-08-23 22:11:06]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmE3qAVsO-ABrawGGBpOo608.pdf
+[2023-08-23 22:11:06]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('88cdfbda20bcd7936bbbeb249fd8307c', 'group2/M00/00/00/sBCpZmTmE3qAVsO-ABrawGGBpOo608.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmE3qAVsO-ABrawGGBpOo608.pdf', '1759936', 'pdf','2203.10006.pdf', 1) 文件信息插入成功
+[2023-08-23 22:11:07]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 22:11:07]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmE3uAbKUiABiyPsTO_yM479.pdf] succ!
+[2023-08-23 22:11:07]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmE3uAbKUiABiyPsTO_yM479.pdf
+[2023-08-23 22:11:07]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmE3uAbKUiABiyPsTO_yM479.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmE3uAbKUiABiyPsTO_yM479.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 22:16:41]--[upload_cgi.cpp:598]--zengjx成功上传[spikingjelly-master.zip, 大小：38606301, md5码：39865603633b4cf0afb35796af814bd9]到本地
+[2023-08-23 22:16:45]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmFM2AMy6-Ak0V3cyX5m8399.zip] succ!
+[2023-08-23 22:16:45]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFM2AMy6-Ak0V3cyX5m8399.zip
+[2023-08-23 22:16:45]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('39865603633b4cf0afb35796af814bd9', 'group2/M00/00/00/sBCpZmTmFM2AMy6-Ak0V3cyX5m8399.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFM2AMy6-Ak0V3cyX5m8399.zip', '38606301', 'zip','spikingjelly-master.zip', 1) 文件信息插入成功
+[2023-08-23 22:16:45]--[upload_cgi.cpp:598]--zengjx成功上传[C  八股文.zip, 大小：46938152, md5码：216e873c7ef8440c602c918a62671c92]到本地
+[2023-08-23 22:16:48]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmFM-AbVOCAsw4KMlq6qw969.zip] succ!
+[2023-08-23 22:16:48]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFM-AbVOCAsw4KMlq6qw969.zip
+[2023-08-23 22:16:48]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('216e873c7ef8440c602c918a62671c92', 'group2/M00/00/00/sBCpZmTmFM-AbVOCAsw4KMlq6qw969.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFM-AbVOCAsw4KMlq6qw969.zip', '46938152', 'zip','C  八股文.zip', 1) 文件信息插入成功
+[2023-08-23 22:16:48]--[upload_cgi.cpp:598]--zengjx成功上传[cmake-3.27.2-windows-x86_64.msi, 大小：32706560, md5码：2202053e26dfd64350b4b0d2706caef1]到本地
+[2023-08-23 22:16:50]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmFNGAOEJMAfMQAFN-KiY230.msi] succ!
+[2023-08-23 22:16:50]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFNGAOEJMAfMQAFN-KiY230.msi
+[2023-08-23 22:16:50]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('2202053e26dfd64350b4b0d2706caef1', 'group2/M00/00/00/sBCpZmTmFNGAOEJMAfMQAFN-KiY230.msi', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFNGAOEJMAfMQAFN-KiY230.msi', '32706560', 'msi','cmake-3.27.2-windows-x86_64.msi', 1) 文件信息插入成功
+[2023-08-23 22:19:21]--[upload_cgi.cpp:598]--zengjx成功上传[mendeleydesktop.zip, 大小：56143987, md5码：03403913c403f750940ba23dd7703e38]到本地
+[2023-08-23 22:19:23]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmFWuAA3_GA1iwcwZC_ko600.zip] succ!
+[2023-08-23 22:19:23]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFWuAA3_GA1iwcwZC_ko600.zip
+[2023-08-23 22:19:23]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('03403913c403f750940ba23dd7703e38', 'group2/M00/00/00/sBCpZmTmFWuAA3_GA1iwcwZC_ko600.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFWuAA3_GA1iwcwZC_ko600.zip', '56143987', 'zip','mendeleydesktop.zip', 1) 文件信息插入成功
+[2023-08-23 22:19:26]--[upload_cgi.cpp:598]--zengjx成功上传[C  八股文.zip, 大小：46938152, md5码：216e873c7ef8440c602c918a62671c92]到本地
+[2023-08-23 22:19:28]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmFXCALPjoAsw4KMlq6qw103.zip] succ!
+[2023-08-23 22:19:28]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFXCALPjoAsw4KMlq6qw103.zip
+[2023-08-23 22:19:28]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('216e873c7ef8440c602c918a62671c92', 'group2/M00/00/00/sBCpZmTmFXCALPjoAsw4KMlq6qw103.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFXCALPjoAsw4KMlq6qw103.zip', '46938152', 'zip','C  八股文.zip', 1) 文件信息插入成功
+[2023-08-23 22:20:24]--[upload_cgi.cpp:598]--zengjx成功上传[cudnn-11.2-windows-x64-v8.1.1.33.zip, 大小：693061567, md5码：3d0840dd2572e49c5378c5009ad1eadf]到本地
+[2023-08-23 22:21:32]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmFeyAFJWBKU9Hv8QvRxk.33.zip] succ!
+[2023-08-23 22:21:32]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFeyAFJWBKU9Hv8QvRxk.33.zip
+[2023-08-23 22:21:32]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('3d0840dd2572e49c5378c5009ad1eadf', 'group2/M00/00/00/sBCpZmTmFeyAFJWBKU9Hv8QvRxk.33.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmFeyAFJWBKU9Hv8QvRxk.33.zip', '693061567', 'zip','cudnn-11.2-windows-x64-v8.1.1.33.zip', 1) 文件信息插入成功
+[2023-08-23 22:29:49]--[upload_cgi.cpp:598]--zengjx成功上传[cudnn-11.2-windows-x64-v8.1.1.33.zip, 大小：693061567, md5码：3d0840dd2572e49c5378c5009ad1eadf]到本地
+[2023-08-23 22:30:32]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmGAiAP8TEKU9Hv8QvRxk.33.zip] succ!
+[2023-08-23 22:30:32]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmGAiAP8TEKU9Hv8QvRxk.33.zip
+[2023-08-23 22:30:32]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('3d0840dd2572e49c5378c5009ad1eadf', 'group2/M00/00/00/sBCpZmTmGAiAP8TEKU9Hv8QvRxk.33.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmGAiAP8TEKU9Hv8QvRxk.33.zip', '693061567', 'zip','cudnn-11.2-windows-x64-v8.1.1.33.zip', 1) 文件信息插入成功
+[2023-08-23 22:31:55]--[upload_cgi.cpp:598]--zengjx成功上传[cudnn-11.2-windows-x64-v8.1.1.33.zip, 大小：693061567, md5码：3d0840dd2572e49c5378c5009ad1eadf]到本地
+[2023-08-23 22:32:39]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmGIeATur3KU9Hv8QvRxk.33.zip] succ!
+[2023-08-23 22:32:39]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmGIeATur3KU9Hv8QvRxk.33.zip
+[2023-08-23 22:32:39]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('3d0840dd2572e49c5378c5009ad1eadf', 'group2/M00/00/00/sBCpZmTmGIeATur3KU9Hv8QvRxk.33.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmGIeATur3KU9Hv8QvRxk.33.zip', '693061567', 'zip','cudnn-11.2-windows-x64-v8.1.1.33.zip', 1) 文件信息插入成功
+[2023-08-23 23:23:28]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 23:23:29]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmJHGALn7KABiyPsTO_yM480.pdf] succ!
+[2023-08-23 23:23:29]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJHGALn7KABiyPsTO_yM480.pdf
+[2023-08-23 23:23:29]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmJHGALn7KABiyPsTO_yM480.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJHGALn7KABiyPsTO_yM480.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 23:24:16]--[upload_cgi.cpp:598]--zengjx成功上传[BackEISNN.pdf, 大小：1618494, md5码：6c00f45bdb74e88528f164c37e14b993]到本地
+[2023-08-23 23:24:16]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmJKCAX50sABiyPsTO_yM847.pdf] succ!
+[2023-08-23 23:24:16]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJKCAX50sABiyPsTO_yM847.pdf
+[2023-08-23 23:24:16]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('6c00f45bdb74e88528f164c37e14b993', 'group2/M00/00/00/sBCpZmTmJKCAX50sABiyPsTO_yM847.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJKCAX50sABiyPsTO_yM847.pdf', '1618494', 'pdf','BackEISNN.pdf', 1) 文件信息插入成功
+[2023-08-23 23:28:54]--[upload_cgi.cpp:598]--zengjx成功上传[2203.10006.pdf, 大小：1759936, md5码：88cdfbda20bcd7936bbbeb249fd8307c]到本地
+[2023-08-23 23:28:55]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmJbeACUCEABrawGGBpOo864.pdf] succ!
+[2023-08-23 23:28:55]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJbeACUCEABrawGGBpOo864.pdf
+[2023-08-23 23:28:55]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('88cdfbda20bcd7936bbbeb249fd8307c', 'group2/M00/00/00/sBCpZmTmJbeACUCEABrawGGBpOo864.pdf', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJbeACUCEABrawGGBpOo864.pdf', '1759936', 'pdf','2203.10006.pdf', 1) 文件信息插入成功
+[2023-08-23 23:37:27]--[upload_cgi.cpp:598]--zengjx成功上传[C  八股文.zip, 大小：46938152, md5码：216e873c7ef8440c602c918a62671c92]到本地
+[2023-08-23 23:37:30]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmJ7qAap44Asw4KMlq6qw793.zip] succ!
+[2023-08-23 23:37:30]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJ7qAap44Asw4KMlq6qw793.zip
+[2023-08-23 23:37:30]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('216e873c7ef8440c602c918a62671c92', 'group2/M00/00/00/sBCpZmTmJ7qAap44Asw4KMlq6qw793.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJ7qAap44Asw4KMlq6qw793.zip', '46938152', 'zip','C  八股文.zip', 1) 文件信息插入成功
+[2023-08-23 23:37:33]--[upload_cgi.cpp:598]--zengjx成功上传[mendeleydesktop.zip, 大小：56143987, md5码：03403913c403f750940ba23dd7703e38]到本地
+[2023-08-23 23:37:37]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmJ8GATfFxA1iwcwZC_ko542.zip] succ!
+[2023-08-23 23:37:37]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJ8GATfFxA1iwcwZC_ko542.zip
+[2023-08-23 23:37:37]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('03403913c403f750940ba23dd7703e38', 'group2/M00/00/00/sBCpZmTmJ8GATfFxA1iwcwZC_ko542.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJ8GATfFxA1iwcwZC_ko542.zip', '56143987', 'zip','mendeleydesktop.zip', 1) 文件信息插入成功
+[2023-08-23 23:37:41]--[upload_cgi.cpp:598]--zengjx成功上传[spikingjelly-master.zip, 大小：38606301, md5码：39865603633b4cf0afb35796af814bd9]到本地
+[2023-08-23 23:37:44]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmJ8iAcdarAk0V3cyX5m8047.zip] succ!
+[2023-08-23 23:37:44]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJ8iAcdarAk0V3cyX5m8047.zip
+[2023-08-23 23:37:44]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('39865603633b4cf0afb35796af814bd9', 'group2/M00/00/00/sBCpZmTmJ8iAcdarAk0V3cyX5m8047.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmJ8iAcdarAk0V3cyX5m8047.zip', '38606301', 'zip','spikingjelly-master.zip', 1) 文件信息插入成功
+[2023-08-23 23:38:25]--[upload_cgi.cpp:598]--zengjx成功上传[cudnn-11.2-windows-x64-v8.1.1.33.zip, 大小：693061567, md5码：3d0840dd2572e49c5378c5009ad1eadf]到本地
+[2023-08-23 23:39:14]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmKCKAASPPKU9Hv8QvRxk.33.zip] succ!
+[2023-08-23 23:39:14]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKCKAASPPKU9Hv8QvRxk.33.zip
+[2023-08-23 23:39:14]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('3d0840dd2572e49c5378c5009ad1eadf', 'group2/M00/00/00/sBCpZmTmKCKAASPPKU9Hv8QvRxk.33.zip', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKCKAASPPKU9Hv8QvRxk.33.zip', '693061567', 'zip','cudnn-11.2-windows-x64-v8.1.1.33.zip', 1) 文件信息插入成功
+[2023-08-23 23:42:06]--[upload_cgi.cpp:598]--zengjx成功上传[实验记录.xlsx, 大小：730945, md5码：8b1f401974f53e0162ce0de6c10cdc17]到本地
+[2023-08-23 23:42:06]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmKM6AHMGNAAsnQamm9lg39.xlsx] succ!
+[2023-08-23 23:42:06]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKM6AHMGNAAsnQamm9lg39.xlsx
+[2023-08-23 23:42:06]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('8b1f401974f53e0162ce0de6c10cdc17', 'group2/M00/00/00/sBCpZmTmKM6AHMGNAAsnQamm9lg39.xlsx', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKM6AHMGNAAsnQamm9lg39.xlsx', '730945', 'xlsx','实验记录.xlsx', 1) 文件信息插入成功
+[2023-08-23 23:50:18]--[upload_cgi.cpp:598]--zengjianxin成功上传[mysql-installer-community-8.0.32.0.msi, 大小：458510336, md5码：a29b5817cba2c7bc0e0b97e897c2591f]到本地
+[2023-08-23 23:50:57]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmKuGAPgbxG1RQADA5qFI1.0.msi] succ!
+[2023-08-23 23:50:57]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKuGAPgbxG1RQADA5qFI1.0.msi
+[2023-08-23 23:50:57]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('a29b5817cba2c7bc0e0b97e897c2591f', 'group2/M00/00/00/sBCpZmTmKuGAPgbxG1RQADA5qFI1.0.msi', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKuGAPgbxG1RQADA5qFI1.0.msi', '458510336', 'msi','mysql-installer-community-8.0.32.0.msi', 1) 文件信息插入成功
+[2023-08-23 23:51:23]--[upload_cgi.cpp:598]--zengjianxin成功上传[CAJViewer 7.3.141.self.exe, 大小：276225568, md5码：e45b45af6e09a3d11f2baed48147a473]到本地
+[2023-08-23 23:51:41]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTmKw2AUschEHbeIN14Sow208.exe] succ!
+[2023-08-23 23:51:41]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKw2AUschEHbeIN14Sow208.exe
+[2023-08-23 23:51:41]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('e45b45af6e09a3d11f2baed48147a473', 'group2/M00/00/00/sBCpZmTmKw2AUschEHbeIN14Sow208.exe', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTmKw2AUschEHbeIN14Sow208.exe', '276225568', 'exe','CAJViewer 7.3.141.self.exe', 1) 文件信息插入成功

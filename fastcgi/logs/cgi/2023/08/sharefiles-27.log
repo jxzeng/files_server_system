@@ -1,0 +1,128 @@
+[2023-08-27 19:07:28]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-27 19:07:28]--[sharefiles_cgi.cpp:112]--line = -1
+[2023-08-27 19:07:46]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-27 19:07:46]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-27 19:07:46]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-27 19:07:46]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-27 19:07:46]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-27 19:07:46]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-27 19:07:46]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjx",
+			"md5":	"3d0840dd2572e49c5378c5009ad1eadf",
+			"time":	"2023-08-27 19:07:45",
+			"filename":	"cudnn-11.2-windows-x64-v8.1.1.33.zip",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTnMESAO2p2KU9Hv8QvRxk.33.zip",
+			"size":	693061567,
+			"type":	"zip"
+		}]
+}
+[2023-08-27 19:07:48]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-27 19:07:48]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-27 19:07:48]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-27 19:07:48]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-27 19:07:48]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-27 19:07:48]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-27 19:07:48]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjx",
+			"md5":	"3d0840dd2572e49c5378c5009ad1eadf",
+			"time":	"2023-08-27 19:07:45",
+			"filename":	"cudnn-11.2-windows-x64-v8.1.1.33.zip",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTnMESAO2p2KU9Hv8QvRxk.33.zip",
+			"size":	693061567,
+			"type":	"zip"
+		}]
+}
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:648]--cmd = pvdesc
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:408]--sql_num = 1, redis_num = 2
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:421]--select md5, filename, pv from share_file_list order by pv desc 在操作
+[2023-08-27 19:07:49]--[sharefiles_cgi.cpp:584]--{
+	"files":	[{
+			"filename":	"2203.10006.pdf",
+			"pv":	0
+		}]
+}
+[2023-08-27 19:07:53]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-27 19:07:53]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-27 19:07:53]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-27 19:07:53]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-27 19:07:53]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-27 19:07:53]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-27 19:07:53]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjx",
+			"md5":	"3d0840dd2572e49c5378c5009ad1eadf",
+			"time":	"2023-08-27 19:07:45",
+			"filename":	"cudnn-11.2-windows-x64-v8.1.1.33.zip",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTnMESAO2p2KU9Hv8QvRxk.33.zip",
+			"size":	693061567,
+			"type":	"zip"
+		}]
+}
+[2023-08-27 19:07:55]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-27 19:07:55]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-27 19:07:55]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-27 19:07:55]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-27 19:07:55]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-27 19:07:55]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-27 19:07:55]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjx",
+			"md5":	"3d0840dd2572e49c5378c5009ad1eadf",
+			"time":	"2023-08-27 19:07:45",
+			"filename":	"cudnn-11.2-windows-x64-v8.1.1.33.zip",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTnMESAO2p2KU9Hv8QvRxk.33.zip",
+			"size":	693061567,
+			"type":	"zip"
+		}]
+}
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:648]--cmd = pvdesc
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:408]--sql_num = 1, redis_num = 2
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:421]--select md5, filename, pv from share_file_list order by pv desc 在操作
+[2023-08-27 19:08:21]--[sharefiles_cgi.cpp:584]--{
+	"files":	[{
+			"filename":	"2203.10006.pdf",
+			"pv":	0
+		}]
+}

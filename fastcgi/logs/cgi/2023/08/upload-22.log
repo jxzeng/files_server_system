@@ -1,0 +1,28 @@
+[2023-08-22 15:56:55]--[upload_cgi.cpp:599]--zengjianxin成功上传[新建文本文档.txt, 大小：771, md5码：c63204cc106231695480c8a3f847ea54]到本地
+[2023-08-22 15:57:25]--[upload_cgi.cpp:372]--[upload FAILED!]
+[2023-08-22 16:17:53]--[upload_cgi.cpp:599]--zengjianxin成功上传[新建文本文档.txt, 大小：771, md5码：c63204cc106231695480c8a3f847ea54]到本地
+[2023-08-22 16:17:53]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTkbzGAduLEAAADA5dK6lk573.txt] succ!
+[2023-08-22 16:17:53]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkbzGAduLEAAADA5dK6lk573.txt
+[2023-08-22 16:17:53]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type, count) values ('c63204cc106231695480c8a3f847ea54', 'group2/M00/00/00/sBCpZmTkbzGAduLEAAADA5dK6lk573.txt', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkbzGAduLEAAADA5dK6lk573.txt', '771', 'txt', 1) 文件信息插入成功
+[2023-08-22 16:31:52]--[upload_cgi.cpp:598]--zengjianxin成功上传[新建文本文档.txt, 大小：771, md5码：c63204cc106231695480c8a3f847ea54]到本地
+[2023-08-22 16:31:52]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTkcniAX6gQAAADA5dK6lk554.txt] succ!
+[2023-08-22 16:31:52]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkcniAX6gQAAADA5dK6lk554.txt
+[2023-08-22 16:31:53]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('c63204cc106231695480c8a3f847ea54', 'group2/M00/00/00/sBCpZmTkcniAX6gQAAADA5dK6lk554.txt', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkcniAX6gQAAADA5dK6lk554.txt', '771', 'txt','新建文本文档.txt', 1) 文件信息插入成功
+[2023-08-22 16:33:05]--[upload_cgi.cpp:598]--zengjianxin成功上传[wewq.txt, 大小：9, md5码：f56e6b9b576844de046812d4714a00f2]到本地
+[2023-08-22 16:33:05]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTkcsGAPNq5AAAACQ0MCEU260.txt] succ!
+[2023-08-22 16:33:05]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkcsGAPNq5AAAACQ0MCEU260.txt
+[2023-08-22 16:33:05]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('f56e6b9b576844de046812d4714a00f2', 'group2/M00/00/00/sBCpZmTkcsGAPNq5AAAACQ0MCEU260.txt', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkcsGAPNq5AAAACQ0MCEU260.txt', '9', 'txt','wewq.txt', 1) 文件信息插入成功
+[2023-08-22 16:33:29]--[upload_cgi.cpp:598]--zengjianxin成功上传[1.jpg, 大小：4008, md5码：8de9f1753827148d4ecc8c6a0d56943a]到本地
+[2023-08-22 16:33:29]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg] succ!
+[2023-08-22 16:33:29]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg
+[2023-08-22 16:33:29]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('8de9f1753827148d4ecc8c6a0d56943a', 'group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg', '4008', 'jpg','1.jpg', 1) 文件信息插入成功
+[2023-08-22 17:38:46]--[upload_cgi.cpp:578]--len = 0, No data from standard input
+[2023-08-22 17:38:50]--[upload_cgi.cpp:578]--len = 0, No data from standard input
+[2023-08-22 17:49:11]--[upload_cgi.cpp:598]--zengjianxin成功上传[Default.jpg, 大小：2154881, md5码：c194a9be81b4a7ce56533d1a7eeabb94]到本地
+[2023-08-22 17:49:18]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTkhJ6AZtg4ACDhgXZtibg723.jpg] succ!
+[2023-08-22 17:49:19]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkhJ6AZtg4ACDhgXZtibg723.jpg
+[2023-08-22 17:49:19]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('c194a9be81b4a7ce56533d1a7eeabb94', 'group2/M00/00/00/sBCpZmTkhJ6AZtg4ACDhgXZtibg723.jpg', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkhJ6AZtg4ACDhgXZtibg723.jpg', '2154881', 'jpg','Default.jpg', 1) 文件信息插入成功
+[2023-08-22 23:47:10]--[upload_cgi.cpp:598]--zengjx成功上传[wewq.txt, 大小：9, md5码：f56e6b9b576844de046812d4714a00f2]到本地
+[2023-08-22 23:47:10]--[upload_cgi.cpp:377]--get [group2/M00/00/00/sBCpZmTk2H6APHUuAAAACQ0MCEU132.txt] succ!
+[2023-08-22 23:47:10]--[upload_cgi.cpp:459]--file url is: http://176.16.169.102:80/group2/M00/00/00/sBCpZmTk2H6APHUuAAAACQ0MCEU132.txt
+[2023-08-22 23:47:10]--[upload_cgi.cpp:498]--insert into file_info (md5, file_id, url, size, type,filename, count) values ('f56e6b9b576844de046812d4714a00f2', 'group2/M00/00/00/sBCpZmTk2H6APHUuAAAACQ0MCEU132.txt', 'http://176.16.169.102:80/group2/M00/00/00/sBCpZmTk2H6APHUuAAAACQ0MCEU132.txt', '9', 'txt','wewq.txt', 1) 文件信息插入成功

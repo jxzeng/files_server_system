@@ -1,0 +1,148 @@
+[2023-08-24 13:45:35]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 13:45:35]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "ecaif01.pdf",
+    "md5": "e2a596ced25f95d984d7cc42b2b1f022",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:35]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = e2a596ced25f95d984d7cc42b2b1f022, filename = ecaif01.pdf
+[2023-08-24 13:45:35]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 13:45:38]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 13:45:38]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "ecai.cls",
+    "md5": "9bdb3b57eee6626351e3f26ddb884352",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:38]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 9bdb3b57eee6626351e3f26ddb884352, filename = ecai.cls
+[2023-08-24 13:45:38]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 13:45:41]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 13:45:41]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "ecai.bst",
+    "md5": "505b6af5087900292c7c5ab62061b6c5",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:41]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = 505b6af5087900292c7c5ab62061b6c5, filename = ecai.bst
+[2023-08-24 13:45:41]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 13:45:44]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 13:45:44]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "ecai.bib",
+    "md5": "a23c4761c5a628ed58494daef865753a",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:44]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = a23c4761c5a628ed58494daef865753a, filename = ecai.bib
+[2023-08-24 13:45:44]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 13:45:47]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 13:45:47]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "CAJViewer 7.3.141.self.exe",
+    "md5": "e45b45af6e09a3d11f2baed48147a473",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:47]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = e45b45af6e09a3d11f2baed48147a473, filename = CAJViewer 7.3.141.self.exe
+[2023-08-24 13:45:47]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 13:45:50]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 13:45:50]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "mysql-installer-community-8.0.32.0.msi",
+    "md5": "a29b5817cba2c7bc0e0b97e897c2591f",
+    "token": "b72b1bfb2aba48a3eb68d34aa79a4bea",
+    "user": "zengjianxin"
+}
+
+[2023-08-24 13:45:50]--[dealfile_cgi.cpp:872]--user = zengjianxin, token = b72b1bfb2aba48a3eb68d34aa79a4bea, md5 = a29b5817cba2c7bc0e0b97e897c2591f, filename = mysql-installer-community-8.0.32.0.msi
+[2023-08-24 13:45:51]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 17:45:16]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 17:45:16]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "实验记录.xlsx",
+    "md5": "8b1f401974f53e0162ce0de6c10cdc17",
+    "token": "64945a6f0040db1c814889e34ec3e59c",
+    "user": "zengjx"
+}
+
+[2023-08-24 17:45:16]--[dealfile_cgi.cpp:872]--user = zengjx, token = 64945a6f0040db1c814889e34ec3e59c, md5 = 8b1f401974f53e0162ce0de6c10cdc17, filename = 实验记录.xlsx
+[2023-08-24 17:45:17]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 17:45:19]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 17:45:19]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "cudnn-11.2-windows-x64-v8.1.1.33.zip",
+    "md5": "3d0840dd2572e49c5378c5009ad1eadf",
+    "token": "64945a6f0040db1c814889e34ec3e59c",
+    "user": "zengjx"
+}
+
+[2023-08-24 17:45:19]--[dealfile_cgi.cpp:872]--user = zengjx, token = 64945a6f0040db1c814889e34ec3e59c, md5 = 3d0840dd2572e49c5378c5009ad1eadf, filename = cudnn-11.2-windows-x64-v8.1.1.33.zip
+[2023-08-24 17:45:19]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 17:45:22]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 17:45:22]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "spikingjelly-master.zip",
+    "md5": "39865603633b4cf0afb35796af814bd9",
+    "token": "64945a6f0040db1c814889e34ec3e59c",
+    "user": "zengjx"
+}
+
+[2023-08-24 17:45:22]--[dealfile_cgi.cpp:872]--user = zengjx, token = 64945a6f0040db1c814889e34ec3e59c, md5 = 39865603633b4cf0afb35796af814bd9, filename = spikingjelly-master.zip
+[2023-08-24 17:45:23]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 17:45:26]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 17:45:26]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "mendeleydesktop.zip",
+    "md5": "03403913c403f750940ba23dd7703e38",
+    "token": "64945a6f0040db1c814889e34ec3e59c",
+    "user": "zengjx"
+}
+
+[2023-08-24 17:45:26]--[dealfile_cgi.cpp:872]--user = zengjx, token = 64945a6f0040db1c814889e34ec3e59c, md5 = 03403913c403f750940ba23dd7703e38, filename = mendeleydesktop.zip
+[2023-08-24 17:45:26]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 17:45:29]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 17:45:29]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "C  八股文.zip",
+    "md5": "216e873c7ef8440c602c918a62671c92",
+    "token": "64945a6f0040db1c814889e34ec3e59c",
+    "user": "zengjx"
+}
+
+[2023-08-24 17:45:29]--[dealfile_cgi.cpp:872]--user = zengjx, token = 64945a6f0040db1c814889e34ec3e59c, md5 = 216e873c7ef8440c602c918a62671c92, filename = C  八股文.zip
+[2023-08-24 17:45:29]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 18:14:01]--[dealfile_cgi.cpp:842]--cmd = share
+[2023-08-24 18:14:01]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "cudnn-11.2-windows-x64-v8.1.1.33.zip",
+    "md5": "3d0840dd2572e49c5378c5009ad1eadf",
+    "token": "39f944553e65cc7733c64f3f744bc627",
+    "user": "zengjx"
+}
+
+[2023-08-24 18:14:01]--[dealfile_cgi.cpp:872]--user = zengjx, token = 39f944553e65cc7733c64f3f744bc627, md5 = 3d0840dd2572e49c5378c5009ad1eadf, filename = cudnn-11.2-windows-x64-v8.1.1.33.zip
+[2023-08-24 18:14:26]--[dealfile_cgi.cpp:842]--cmd = share
+[2023-08-24 18:14:26]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "1.jpg",
+    "md5": "8de9f1753827148d4ecc8c6a0d56943a",
+    "token": "39f944553e65cc7733c64f3f744bc627",
+    "user": "zengjx"
+}
+
+[2023-08-24 18:14:26]--[dealfile_cgi.cpp:872]--user = zengjx, token = 39f944553e65cc7733c64f3f744bc627, md5 = 8de9f1753827148d4ecc8c6a0d56943a, filename = 1.jpg
+[2023-08-24 18:24:24]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 18:24:24]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "cudnn-11.2-windows-x64-v8.1.1.33.zip",
+    "md5": "3d0840dd2572e49c5378c5009ad1eadf",
+    "token": "39f944553e65cc7733c64f3f744bc627",
+    "user": "zengjx"
+}
+
+[2023-08-24 18:24:24]--[dealfile_cgi.cpp:872]--user = zengjx, token = 39f944553e65cc7733c64f3f744bc627, md5 = 3d0840dd2572e49c5378c5009ad1eadf, filename = cudnn-11.2-windows-x64-v8.1.1.33.zip
+[2023-08-24 18:24:24]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0
+[2023-08-24 18:24:29]--[dealfile_cgi.cpp:842]--cmd = del
+[2023-08-24 18:24:29]--[dealfile_cgi.cpp:870]--buf = {
+    "filename": "1.jpg",
+    "md5": "8de9f1753827148d4ecc8c6a0d56943a",
+    "token": "39f944553e65cc7733c64f3f744bc627",
+    "user": "zengjx"
+}
+
+[2023-08-24 18:24:29]--[dealfile_cgi.cpp:872]--user = zengjx, token = 39f944553e65cc7733c64f3f744bc627, md5 = 8de9f1753827148d4ecc8c6a0d56943a, filename = 1.jpg
+[2023-08-24 18:24:29]--[dealfile_cgi.cpp:372]--remove_file_from_storage ret = 0

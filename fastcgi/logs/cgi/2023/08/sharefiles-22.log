@@ -1,0 +1,124 @@
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:103]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:104]--line = 0
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:103]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:104]--line = 0
+[2023-08-22 14:39:58]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 14:54:47]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 14:54:47]--[sharefiles_cgi.cpp:103]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2023-08-22 14:54:47]--[sharefiles_cgi.cpp:104]--line = 0
+[2023-08-22 14:54:47]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 16:20:07]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 16:20:07]--[sharefiles_cgi.cpp:103]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2023-08-22 16:20:07]--[sharefiles_cgi.cpp:104]--line = 0
+[2023-08-22 16:20:07]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 16:20:10]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 16:20:10]--[sharefiles_cgi.cpp:103]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2023-08-22 16:20:10]--[sharefiles_cgi.cpp:104]--line = 0
+[2023-08-22 16:20:10]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 16:21:20]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 16:21:20]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-22 16:21:20]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-22 16:21:20]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-22 16:21:20]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-22 16:21:20]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-22 16:21:20]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"c63204cc106231695480c8a3f847ea54",
+			"time":	"2023-08-22 16:20:40",
+			"filename":	"新建文本文档.txt",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkbzGAduLEAAADA5dK6lk573.txt",
+			"size":	771,
+			"type":	"txt"
+		}]
+}
+[2023-08-22 16:32:05]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 16:32:05]--[sharefiles_cgi.cpp:103]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2023-08-22 16:32:05]--[sharefiles_cgi.cpp:104]--line = 0
+[2023-08-22 16:32:05]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 16:32:08]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 16:32:08]--[sharefiles_cgi.cpp:103]--select count from user_file_count where user="xxx_share_xxx_file_xxx_list_xxx_count_xxx" 操作失败
+[2023-08-22 16:32:08]--[sharefiles_cgi.cpp:104]--line = 0
+[2023-08-22 16:32:08]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 16:33:13]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 16:33:13]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-22 16:33:13]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-22 16:33:13]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-22 16:33:13]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-22 16:33:13]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-22 16:33:13]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"f56e6b9b576844de046812d4714a00f2",
+			"time":	"2023-08-22 16:33:11",
+			"filename":	"wewq.txt",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkcsGAPNq5AAAACQ0MCEU260.txt",
+			"size":	9,
+			"type":	"txt"
+		}]
+}
+[2023-08-22 16:33:21]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 16:33:21]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 17:43:15]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 17:43:15]--[sharefiles_cgi.cpp:112]--line = 0
+[2023-08-22 21:26:15]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 21:26:15]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-22 21:26:15]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-22 21:26:15]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-22 21:26:15]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-22 21:26:15]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-22 21:26:15]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"8de9f1753827148d4ecc8c6a0d56943a",
+			"time":	"2023-08-22 21:26:09",
+			"filename":	"1.jpg",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg",
+			"size":	4008,
+			"type":	"jpg"
+		}]
+}
+[2023-08-22 21:27:31]--[sharefiles_cgi.cpp:648]--cmd = count
+[2023-08-22 21:27:31]--[sharefiles_cgi.cpp:112]--line = 1
+[2023-08-22 21:27:31]--[sharefiles_cgi.cpp:648]--cmd = normal
+[2023-08-22 21:27:31]--[sharefiles_cgi.cpp:683]--buf = {
+    "count": 1,
+    "start": 0
+}
+
+[2023-08-22 21:27:31]--[sharefiles_cgi.cpp:691]--start = 0, count = 1
+[2023-08-22 21:27:31]--[sharefiles_cgi.cpp:158]--select share_file_list.*, file_info.url, file_info.size, file_info.type from file_info, share_file_list where file_info.md5 = share_file_list.md5 limit 0, 1 在操作
+[2023-08-22 21:27:31]--[sharefiles_cgi.cpp:282]--{
+	"files":	[{
+			"user":	"zengjianxin",
+			"md5":	"8de9f1753827148d4ecc8c6a0d56943a",
+			"time":	"2023-08-22 21:26:09",
+			"filename":	"1.jpg",
+			"share_status":	1,
+			"pv":	0,
+			"url":	"http://176.16.169.102:80/group2/M00/00/00/sBCpZmTkctmAZPgdAAAPqPIZLGo774.jpg",
+			"size":	4008,
+			"type":	"jpg"
+		}]
+}

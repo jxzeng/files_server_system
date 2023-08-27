@@ -1,0 +1,54 @@
+[2023-08-18 23:07:30]--[login_cgi.cpp:220]--buf = ------WebKitFormBoundaryOv7Dnq7Rwnr8owVM
+Content-Disposition: form-data; name="file"; filename="新建文本文档.txt"
+Content-Type: text/plain
+
+中期考核做了哪些工作，还有哪些工作要做
+给老师整理下关于其它先进论文的实验结果中用到的网络架构，数据集，
+平均脉冲时间反向传播避免BPTT  平均时间怎么跟权重w建立联系
+
+
+
+
+我是天才Duck
+03:40 Java后端技术阶段概括
+06:05 第一部分： Java基础 
+08:49 第二部分： Java高级
+24:35 第三部分： JavaWEB
+28:45 第四部分： 主流框架和项目管理
+36:30 第五部分： 分布式 微服务 并行架构
+49:10 第六部分 ： DevOps（开发运维一体化）
+55:15 第七部分 ： 大数据（可以弱化）
+56:55 第八部分： 项目
+57:51 第九部分： 大厂的高频面试题
+61:44 第十部分： 底层源码/内核研究
+62:52 编程基础拓展
+------WebKitFormBoundaryOv7Dnq7Rwnr8owVM--
+
+[2023-08-18 23:07:30]--[login_cgi.cpp:169]--cJSON_GetObjectItem err
+[2023-08-18 23:07:30]--[login_cgi.cpp:225]--user = , pwd = 
+[2023-08-18 23:07:30]--[login_cgi.cpp:51]--mysql_user = root, mysql_pwd = #ZJx123456, mysql_db = filesystem
+[2023-08-18 23:07:30]--[login_cgi.cpp:93]--redis:[ip=127.0.0.1,port=6379]
+[2023-08-18 23:07:30]--[login_cgi.cpp:114]--tmp = 753649959421
+[2023-08-18 23:07:30]--[login_cgi.cpp:129]--base64 = It4zZJox4bTHsINhdaMdkg==
+[2023-08-18 23:07:30]--[login_cgi.cpp:233]--token = 314798ee6e1aeb2072c671c3ae63a70b
+[2023-08-18 23:45:05]--[login_cgi.cpp:220]--buf = {
+    "pwd": "cd4c72acf27ab07e47a845b62bac8951",
+    "user": "zengjianxin"
+}
+
+[2023-08-18 23:45:05]--[login_cgi.cpp:225]--user = zengjianxin, pwd = cd4c72acf27ab07e47a845b62bac8951
+[2023-08-18 23:45:05]--[login_cgi.cpp:51]--mysql_user = root, mysql_pwd = #ZJx123456, mysql_db = filesystem
+[2023-08-18 23:45:14]--[login_cgi.cpp:220]--buf = {
+    "pwd": "cd4c72acf27ab07e47a845b62bac8951",
+    "user": "zengjianxin"
+}
+
+[2023-08-18 23:45:14]--[login_cgi.cpp:225]--user = zengjianxin, pwd = cd4c72acf27ab07e47a845b62bac8951
+[2023-08-18 23:45:14]--[login_cgi.cpp:51]--mysql_user = root, mysql_pwd = #ZJx123456, mysql_db = filesystem
+[2023-08-18 23:46:15]--[login_cgi.cpp:220]--buf = {
+    "pwd": "cd4c72acf27ab07e47a845b62bac8951",
+    "user": "zengjianxin"
+}
+
+[2023-08-18 23:46:15]--[login_cgi.cpp:225]--user = zengjianxin, pwd = cd4c72acf27ab07e47a845b62bac8951
+[2023-08-18 23:46:15]--[login_cgi.cpp:51]--mysql_user = root, mysql_pwd = #ZJx123456, mysql_db = filesystem
